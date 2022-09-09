@@ -10,6 +10,7 @@ public class Variables02 {
 
     // Step 3) Add a line of code that changes the value of x to "bunny".
 
+    x = "bunny";
     System.out.println(x);
 
   }
