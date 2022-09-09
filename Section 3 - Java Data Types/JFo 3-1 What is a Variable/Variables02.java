@@ -6,11 +6,11 @@ public class Variables02 {
     // value of x.
     // Step 2) Change the value of x to "kitty".
     String x = "puppy";
-    System.out.println("puppy");
+    System.out.println(x);
 
     // Step 3) Add a line of code that changes the value of x to "bunny".
 
-    System.out.println("puppy");
+    System.out.println(x);
 
   }
 }
